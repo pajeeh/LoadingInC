@@ -1,4 +1,4 @@
-# Loading In C[!C]
+# Loading In C
 > Uma animação de carregamento feito em linguagem C.
 
 ## Ferramentas Utilizadas
@@ -14,3 +14,6 @@
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Disponível para todos.
+
+# Autor
+_Escrito e desenvolvido por_@PajehMDev
