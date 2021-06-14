@@ -1,4 +1,4 @@
-# Loading In C
+# Loading In C[!C]
 > Uma animação de carregamento feito em linguagem C.
 
 ## Ferramentas Utilizadas
@@ -9,7 +9,7 @@
 - [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797) -
 - [Código escape ANSI](https://pt.wikipedia.org/wiki/C%C3%B3digo_escape_ANSI) -
 
-## License
+## Licença
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
